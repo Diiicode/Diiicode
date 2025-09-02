@@ -8,7 +8,7 @@ My focus is on writing efficient, reliable code in **C** and **Bash**, while con
 ### 🔹 About Me  
 - 💻 Focused on **low-level programming (C, Bash, Systems)**  
 - 🔐 Strong interest in **cybersecurity** and **systems engineering**  
-- 🚀 Advancing through **42 School projects**, **freeCodeCamp**, **Exercism** and, **Codecademy**  
+- 🚀 Advancing through **42 School projects**, **freeCodeCamp**, **Exercism** and **Codecademy**  
 - 🌍 Based in Lisbon, Portugal  
 - 📚 Dedicated to continuous learning and professional growth  
 
